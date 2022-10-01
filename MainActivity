@@ -13,13 +13,7 @@ class MainActivity : AppCompatActivity() {
 
     fun clear(view: View) {
 
-        val input1 = edt_angka1
-        val input2 = edt_angka2
-        val hasil = txt_hasil
-
-        input1.text =null
-        input2.text =null
-        hasil.text = "0"
+        
 
     }
 
